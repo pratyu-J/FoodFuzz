@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800283348523",
+    "firebase_url": "https://foodfuzz-c5b01.firebaseio.com",
+    "project_id": "foodfuzz-c5b01",
+    "storage_bucket": "foodfuzz-c5b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800283348523:android:1158bddb9b725bef69246e",
+        "android_client_info": {
+          "package_name": "com.example.foodfuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800283348523-fvhj26jq2g6qd4adp6ilb7t8grri5uq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodfuzz",
+            "certificate_hash": "e7bf1f66cf2a65886d08c78f0f7e49c83096f5bc"
+          }
+        },
+        {
+          "client_id": "800283348523-n7saoecq7k4gok9oec3lf93pqfj6aqap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQlGcdmX_Au9MfX9gOuwIzVde12b9vag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800283348523-n7saoecq7k4gok9oec3lf93pqfj6aqap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
